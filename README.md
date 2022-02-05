@@ -1,7 +1,7 @@
 
 > (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─)
 # Bienvenid@ a mi perfil 👋
-## Me llamo @edsonmier y me senté frente a una computadora cuando tenía 3 años. No volví a levantarme.
+> ## Me llamo @edsonmier y me senté frente a una computadora cuando tenía 3 años. No volví a levantarme.
 
 # Lo que me encanta hacer:
 > -- > Mis pasiones preferidas son los videojuegos, el futbol, la música y por supuesto, programar.
