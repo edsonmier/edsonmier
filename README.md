@@ -12,6 +12,8 @@
 # I love Axie Infinity!
 > --> These beautiful Axies are mine 😄
 
+[![name]("https://assets.axieinfinity.com/axies/10763179/axie/axie-full-transparent.png" width="75" height="60")](lhttps://marketplace.axieinfinity.com/axie/10763179/)
+
 <img src="https://assets.axieinfinity.com/axies/10763179/axie/axie-full-transparent.png" width="75" height="60" /> <img src="https://assets.axieinfinity.com/axies/10699090/axie/axie-full-transparent.png" width="75" height="60" /> <img src="https://assets.axieinfinity.com/axies/10808188/axie/axie-full-transparent.png" width="75" height="60" />
 
 
