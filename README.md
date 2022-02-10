@@ -11,10 +11,10 @@
 
 # I love Axie Infinity!
 > --> These beautiful Axies are mine 😄
-
-[<img alt="Chopper" width="190" height="155" src="https://assets.axieinfinity.com/axies/10763179/axie/axie-full-transparent.png"/>](https://marketplace.axieinfinity.com/axie/10763179/)
-[<img alt="Dr. Furball" width="190" height="155" src="https://assets.axieinfinity.com/axies/10699090/axie/axie-full-transparent.png"/>](https://marketplace.axieinfinity.com/axie/10699090/)
-[<img alt="Larry" width="190" height="155" src="https://assets.axieinfinity.com/axies/10808188/axie/axie-full-transparent.png"/>](https://marketplace.axieinfinity.com/axie/10808188/)
+> 
+[<img alt="Chopper" width="190" height="150" src="https://assets.axieinfinity.com/axies/10763179/axie/axie-full-transparent.png"/>](https://marketplace.axieinfinity.com/axie/10763179/)
+[<img alt="Dr. Furball" width="190" height="150" src="https://assets.axieinfinity.com/axies/10699090/axie/axie-full-transparent.png"/>](https://marketplace.axieinfinity.com/axie/10699090/)
+[<img alt="Larry" width="190" height="150" src="https://assets.axieinfinity.com/axies/10808188/axie/axie-full-transparent.png"/>](https://marketplace.axieinfinity.com/axie/10808188/)
 
 
 # Contact me.
