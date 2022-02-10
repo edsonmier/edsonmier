@@ -12,6 +12,8 @@
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
+![](https://github-readme-stats.vercel.app/api?username=edsonmier&theme=blue-green)
+
 # What I personally love to do:
 > -- > My passions are videogames, soccer, music and of course programming.
 
