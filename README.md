@@ -3,7 +3,7 @@
 # Welcome to my profile 👋
 > ## My name is @edsonmier and I sat at a computer when I was 3 years old. I never got up from the chair again.
 
-# My actual skills:
+# My skills:
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
