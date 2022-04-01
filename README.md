@@ -32,7 +32,7 @@
 [<img alt="Snape" width="195" height="150" src="https://assets.axieinfinity.com/axies/8057903/axie/axie-full-transparent.png"/>](https://marketplace.axieinfinity.com/axie/8057903/)
 
 
-# Contact me.
+# Contact me!
 
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edson.mier/)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/edson_mier)
