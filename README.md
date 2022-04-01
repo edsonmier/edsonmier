@@ -1,7 +1,7 @@
 
 > (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─)
 # Welcome to my profile 👋
-> ## My name is @edsonmier and I sat at a computer when I was 3 years old. I never got up from the chair again.
+> ## My name is @edsonmier and I sat at a computer when I was 3 years old. I casually never got up from the chair again.
 
 # My skills:
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -25,7 +25,7 @@
 > -- > I am currently learning about Java Spring, NodeJS and spending all my efforts to become a full-stack developer.
 
 # I love Axie Infinity!
-> --> These beautiful Axies are mine 😄
+> --> These beautiful and amazing Axies are mine 😄
 
 [<img alt="Chopper" width="195" height="150" src="https://assets.axieinfinity.com/axies/10763179/axie/axie-full-transparent.png"/>](https://marketplace.axieinfinity.com/axie/10763179/)
 [<img alt="Dr. Furball" width="195" height="150" src="https://assets.axieinfinity.com/axies/10699090/axie/axie-full-transparent.png"/>](https://marketplace.axieinfinity.com/axie/10699090/)
