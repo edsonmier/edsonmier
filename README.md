@@ -18,7 +18,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=edsonmier&theme=blue-green)
 
-# What I personally love to do:
+# What I love to do:
 > -- > My passions are videogames, soccer, music and of course programming.
 
 # What things do I aspire to?
