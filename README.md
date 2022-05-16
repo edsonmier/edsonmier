@@ -1,6 +1,6 @@
 
 > (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─)
-# Welcome to my profile 👋
+# Welcome to my profile 👋👋
 > ## My name is @edsonmier and I sat at a computer when I was 3 years old. I casually never got up from the chair again.
 
 # My skills:
