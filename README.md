@@ -27,9 +27,9 @@
 # I love Axie Infinity!
 > --> These beautiful and amazing Axies are mine 😄
 
-[<img alt="Chopper" width="195" height="150" src="https://assets.axieinfinity.com/axies/10763179/axie/axie-full-transparent.png"/>](https://marketplace.axieinfinity.com/axie/10763179/)
-[<img alt="Dr. Furball" width="195" height="150" src="https://assets.axieinfinity.com/axies/10699090/axie/axie-full-transparent.png"/>](https://marketplace.axieinfinity.com/axie/10699090/)
-[<img alt="Snape" width="195" height="150" src="https://assets.axieinfinity.com/axies/8057903/axie/axie-full-transparent.png"/>](https://marketplace.axieinfinity.com/axie/8057903/)
+[<img alt="Chopper" width="195" height="150" src="https://axiecdn.axieinfinity.com/axies/10763179/axie/axie-full-transparent.png"/>](https://marketplace.axieinfinity.com/axie/10763179/)
+[<img alt="Dr. Furball" width="195" height="150" src="https://axiecdn.axieinfinity.com/axies/10699090/axie/axie-full-transparent.png"/>](https://marketplace.axieinfinity.com/axie/10699090/)
+[<img alt="Snape" width="195" height="150" src="https://axiecdn.axieinfinity.com/axies/8057903/axie/axie-full-transparent.png"/>](https://marketplace.axieinfinity.com/axie/8057903/)
 [<img alt="Doko" width="195" height="150" src="https://axiecdn.axieinfinity.com/axies/9826235/axie/axie-full-transparent.png"/>](https://marketplace.axieinfinity.com/axie/9826235/)
 
 
