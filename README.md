@@ -22,7 +22,7 @@
 > -- > My passions are videogames, soccer, music and of course programming.
 
 # What things do I aspire to?
-> -- > I am currently learning about Java Spring, NodeJS and spending all my efforts to become a full-stack developer.
+> -- > I aim to make each of my days full of learning and improvement as a full stack developer.
 
 # I love Axie Infinity!
 > --> These beautiful and amazing Axies are mine 😄
