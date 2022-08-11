@@ -33,7 +33,7 @@
 [<img alt="Doko" width="195" height="150" src="https://axiecdn.axieinfinity.com/axies/9826235/axie/axie-full-transparent.png"/>](https://marketplace.axieinfinity.com/axie/9826235/)
 
 
-# Contact me!
+# Contact me:
 
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edson.mier/)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/edson_mier)
