@@ -25,7 +25,7 @@
 > -- > I aim to make each of my days full of learning and improvement as a full stack developer.
 
 # I love Axie Infinity!
-> --> These beautiful and amazing Axies are mine :D
+> --> These beautiful and amazing Axies are mine! :)
 
 [<img alt="Chopper" width="195" height="150" src="https://axiecdn.axieinfinity.com/axies/10763179/axie/axie-full-transparent.png"/>](https://marketplace.axieinfinity.com/axie/10763179/)
 [<img alt="Dr. Furball" width="195" height="150" src="https://axiecdn.axieinfinity.com/axies/10699090/axie/axie-full-transparent.png"/>](https://marketplace.axieinfinity.com/axie/10699090/)
