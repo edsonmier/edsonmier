@@ -40,6 +40,6 @@
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/edson_mier)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-mier/)
 
--- > To contact me, please use this email: edson.mier28@gmail.com.
+-- > To contact me, please use this email: edson.mier28@gmail.com
 
 > (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─)
