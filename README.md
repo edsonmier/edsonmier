@@ -19,10 +19,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=edsonmier&theme=blue-green)
 
 # What I love to do:
-> -- > My passions are videogames, soccer, music and of course programming.
+> -- > My passions are videogames, soccer, of course programming, and the most important one: MUSIC! I love it & live for it.
 
 # What things do I aspire to?
-> -- > I aim to make each of my days full of learning and improvement as a full stack developer.
+> -- > I aim to make each of my days full of learning and improvement as a developer, yeah, but I'm a mostly a musician who likes programming as a very juicy hobbie.
 
 # Contact me:
 
