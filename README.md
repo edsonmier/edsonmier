@@ -22,7 +22,7 @@
 > -- > My passions are videogames, soccer, of course programming, and the most important one: MUSIC! I love it & live for it.
 
 # What things do I aspire to?
-> -- > I aim to make each of my days full of learning and improvement as a developer, yeah, but I'm a mostly a musician who likes programming as a very juicy hobbie.
+> -- > I aim to make each of my days full of learning and improvement as a developer, yeah, but I'm a mostly a musician who likes programming as a very juicy hobbie!
 
 # Contact me:
 
